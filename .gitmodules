@@ -3,4 +3,4 @@
 	url = git@github.com:Silent-Crafter/endsem-dice.git
 [submodule "calculator"]
 	path = calculator
-	url = ./calculator
+	url = git@github.com:Silent-Crafter/simple-calculator.git
